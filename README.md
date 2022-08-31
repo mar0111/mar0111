@@ -1,18 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**mar0111/mar0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Trudging on](https://w7.pngwing.com/pngs/298/559/png-transparent-desk-sitting-silhouette-woman-working-furniture-animals-hand.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm Marsha 
+------------------------------
+
++ I am a computer science student who is interested in mobile and web based programming.  I am also learning Linux at a steady pace. :computer:
+
++ This my 1st attempt at drafting my profile 'cause I'm in a hurry at the moment, sorry, God bless. :church:
 
 
